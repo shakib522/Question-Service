@@ -20,9 +20,10 @@ This service handles CRUD operations for questions, allowing quizzes to fetch an
 [Quiz Craft.postman_collection.json](https://github.com/user-attachments/files/16823586/Quiz.Craft.postman_collection.json)
 
 ## Other Service repository
-- Quiz Service:
-- API Gateway:
-- Service Registry
+-Service Registry : https://github.com/shakib522/Service-Registry
+-API Gateway : https://github.com/shakib522/Api-Getway
+-Quiz Service : https://github.com/shakib522/Question-Service
+
 
 ## Prerequisites
 
